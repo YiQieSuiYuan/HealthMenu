@@ -2,7 +2,7 @@
 //  SettingViewController.m
 //  MVCTest
 //
-//  Created by 乐业天空 on 15/10/29.
+//  Created by zhanglei on 15/10/29.
 //  Copyright (c) 2015年 myjobsky. All rights reserved.
 //
 

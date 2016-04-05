@@ -2,7 +2,7 @@
 //  CarouselView.h
 //  xxx
 //
-//  Created by 乐业天空 on 15/7/14.
+//  Created by zhanglei on 15/7/14.
 //  Copyright (c) 2015年 myjobsky. All rights reserved.
 //
 

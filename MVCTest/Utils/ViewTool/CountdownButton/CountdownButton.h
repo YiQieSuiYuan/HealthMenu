@@ -2,7 +2,7 @@
 //  CountdownButton.h
 //  Test
 //
-//  Created by 乐业天空 on 15/11/21.
+//  Created by zhanglei on 15/11/21.
 //  Copyright © 2015年 myjobsky. All rights reserved.
 //
 

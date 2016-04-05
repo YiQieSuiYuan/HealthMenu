@@ -2,7 +2,7 @@
 //  SinglePickerView.h
 //  fasfasf
 //
-//  Created by 乐业天空 on 15/11/7.
+//  Created by zhanglei on 15/11/7.
 //  Copyright (c) 2015年 myjobsky. All rights reserved.
 //
 

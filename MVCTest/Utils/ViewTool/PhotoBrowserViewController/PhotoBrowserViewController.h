@@ -2,7 +2,7 @@
 //  PhotoBrowserViewController.h
 //  fasfasf
 //
-//  Created by 乐业天空 on 15/11/2.
+//  Created by zhanglei on 15/11/2.
 //  Copyright (c) 2015年 myjobsky. All rights reserved.
 //
 

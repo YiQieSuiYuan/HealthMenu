@@ -2,7 +2,7 @@
 //  HttpManager.h
 //  MVCTest
 //
-//  Created by 乐业天空 on 15/7/3.
+//  Created by zhanglei on 15/7/3.
 //  Copyright (c) 2015年 myjobsky. All rights reserved.
 //
 
