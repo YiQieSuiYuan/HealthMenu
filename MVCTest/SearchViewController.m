@@ -3,7 +3,7 @@
 //  MVCTest
 //
 //  Created by zhanglei on 16/1/5.
-//  Copyright © 2016年 myjobsky. All rights reserved.
+//  Copyright © 2016年 zhanglei. All rights reserved.
 //
 
 #import "SearchViewController.h"

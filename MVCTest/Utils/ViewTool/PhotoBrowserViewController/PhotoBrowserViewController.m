@@ -3,7 +3,7 @@
 //  fasfasf
 //
 //  Created by zhanglei on 15/11/2.
-//  Copyright (c) 2015年 myjobsky. All rights reserved.
+//  Copyright (c) 2015年 zhanglei. All rights reserved.
 //
 
 #import "PhotoBrowserViewController.h"

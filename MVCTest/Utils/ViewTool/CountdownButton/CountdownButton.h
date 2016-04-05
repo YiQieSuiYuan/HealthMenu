@@ -3,7 +3,7 @@
 //  Test
 //
 //  Created by zhanglei on 15/11/21.
-//  Copyright © 2015年 myjobsky. All rights reserved.
+//  Copyright © 2015年 zhanglei. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

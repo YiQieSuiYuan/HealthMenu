@@ -3,7 +3,7 @@
 //  MVCTest
 //
 //  Created by zhanglei on 15/12/15.
-//  Copyright © 2015年 myjobsky. All rights reserved.
+//  Copyright © 2015年 zhanglei. All rights reserved.
 //
 
 #import "PageInfo.h"

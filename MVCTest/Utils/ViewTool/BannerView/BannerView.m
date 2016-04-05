@@ -3,7 +3,7 @@
 //  Test
 //
 //  Created by zhanglei on 15/11/20.
-//  Copyright © 2015年 myjobsky. All rights reserved.
+//  Copyright © 2015年 zhanglei. All rights reserved.
 //
 
 #import "BannerView.h"
